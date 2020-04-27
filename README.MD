@@ -2,7 +2,7 @@
 
 <img height="200" src="img/avatar.jpeg" alt="Andrii Rakhimov" align="right"/>
 
-Andrii is an Engineering Manager based in London, UK. He is adventurer passionate about education. He spends his time poking on open-source and personal projects, learning or up in the sky 🪂 and around the mountains 🏔️. He can be found at the conferences talking about Android libraries, architecture and past projects or at the class passing knowledge to rising Android Engineers.
+Andrii is an engineer based in London, UK. He is adventurer passionate about education. He spends his time poking on open-source and personal projects, learning or up in the sky 🪂 and around the mountains 🏔️. He can be found at the conferences talking about Android libraries, architecture and past projects or at the class passing knowledge to rising Android Engineers.
 
 He has been a part of several successful startups in the past, helping them to develop and scale android applications from thousands to millions of users and spread to the countries with low-level(battery and network constrained) mobile devices, delivering top UI performance and UX at the same time. He was also leading and growing mobile teams, establishing infrastructure(CI/CD, architecture, testing practices) and caring deeply about developer experience.
 
