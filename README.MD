@@ -6,7 +6,7 @@ Mobile Engineer focused on architecture and infrastructure, based in London, UK.
 
 ### Teaching
 
-Andrii has taught Android Engineering classes during 2018-2019. He has developed the course program, slides, homework, final project and recorded live lessons.
+Taught Android Engineering classes during 2018-2019. Developed the course program, slides, homework, final project and recorded live lessons.
 
 ### Workshops/Talks
 
