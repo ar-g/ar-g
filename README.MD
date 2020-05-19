@@ -2,7 +2,15 @@
 
 <img height="200" src="img/avatar.jpeg" alt="Andrii Rakhimov" align="right"/>
 
-Mobile Engineer focused on architecture and infrastructure, based in London, UK. Adventurer passionate about education, speak regularly at the conferences, and pass knowledge to beginning Android Engineers at the class. Was a part of several successful startups, helping them to develop and scale android applications from thousands to millions of users and spread to the countries with low-level(battery and network constrained) mobile devices, delivering top UI performance and UX at the same time. Was also leading and growing mobile teams, establishing infrastructure(CI/CD, architecture, testing practices) and caring deeply about developer experience
+Mobile Engineer focused on solving challenging problems from the tech as well as product/org
+side. Most of all I'm striving to bring value with my work, this means continuously learning and
+doing what is important for the product. Was a part of 2 successful startups Lalafo and Uklon
+and currently Babylon Health, helping them to develop and scale mobile applications from
+thousands to millions of users and spread to the countries with low-level (memory and network
+constrained) mobile devices, delivering top UI performance and UX at the same time. Was also
+leading and growing mobile teams, establishing infrastructure (CI/CD, architecture, testing
+practices), and caring about DX. In the free time an adventurer passionate about education,
+sharing knowledge regularly at conferences and classrooms.
 
 ### Teaching
 
